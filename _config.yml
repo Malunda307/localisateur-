@@ -1,0 +1,5 @@
+# Security headers
+include:
+  - _headers
+
+# Forcer HTTPS
